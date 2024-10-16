@@ -1,0 +1,42 @@
+name: Update Schneehoehen
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: 0 5 * * *
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-roadmap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+
+      - name: "Set up Python"
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: ".python-version"
+
+      - name: Install the project
+        run: uv sync --all-extras --dev
+
+      - name: Scrape schneehoehen 
+        run: uv run scrape.py
+
+      - name: Commit report
+        run: |
+          git config --global user.name 'Gihub Auto Commit'
+          git config --global user.email '<>'
+          git commit -am "Automated report"
+          git push
