@@ -36,8 +36,9 @@ jobs:
         run: uv sync --all-extras --dev
 
       - name: Scrape schneehoehen 
-        run: uv run scrape.py
-
+        run: |
+          uv run scrape.py
+          uv run db_insert.py
       - name: Commit report
         run: |
           git config --global user.name 'Gihub Auto Commit'
