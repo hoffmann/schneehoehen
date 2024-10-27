@@ -1,3 +1,4 @@
+https://www.schneehoehen.de/skigebiete/schneebericht/4-vallees
 https://www.schneehoehen.de/skigebiete/schneebericht/adelboden-lenk
 https://www.schneehoehen.de/skigebiete/schneebericht/arlberg
 https://www.schneehoehen.de/skigebiete/schneebericht/arolla
@@ -21,6 +22,7 @@ https://www.schneehoehen.de/skigebiete/schneebericht/nauders-bergkastel
 https://www.schneehoehen.de/skigebiete/schneebericht/oetztal-arena-soelden
 https://www.schneehoehen.de/skigebiete/schneebericht/pitztaler-gletscher
 https://www.schneehoehen.de/skigebiete/schneebericht/praz-de-lys-sommand
+https://www.schneehoehen.de/skigebiete/schneebericht/saas-fee
 https://www.schneehoehen.de/skigebiete/schneebericht/scuol-motta-naluns
 https://www.schneehoehen.de/skigebiete/schneebericht/silvretta-nova
 https://www.schneehoehen.de/skigebiete/schneebericht/skicircus-saalbach-hinterglemm-leogang
@@ -31,4 +33,3 @@ https://www.schneehoehen.de/skigebiete/schneebericht/tignes
 https://www.schneehoehen.de/skigebiete/schneebericht/val-thorens
 https://www.schneehoehen.de/skigebiete/schneebericht/zermatt
 https://www.schneehoehen.de/skigebiete/schneebericht/zillertal-arena
-https://www.schneehoehen.de/skigebiete/schneebericht/4-vallees
