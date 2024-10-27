@@ -1,4 +1,13 @@
 {
+  "4-vallees": {
+    "url": "https://www.schneehoehen.de/skigebiete/schneebericht/4-vallees",
+    "date": "2024-10-27",
+    "Schneeh\u00f6he (Bergstation)": "0 cm",
+    "Schneeh\u00f6he (Talstation)": "0 cm",
+    "Neuschneemenge": "0 cm",
+    "Schneezustand": "k.A.",
+    "Letzter Schneefall": "21.04.2024"
+  },
   "adelboden-lenk": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/adelboden-lenk",
     "date": "2024-10-27",
@@ -185,7 +194,7 @@
     "Schneeh\u00f6he (Bergstation)": "106 cm",
     "Schneeh\u00f6he (Talstation)": "0 cm",
     "Neuschneemenge": "0 cm",
-    "Schneezustand": "griffig",
+    "Schneezustand": "k.A.",
     "Letzter Schneefall": "12.10.2024"
   },
   "pitztaler-gletscher": {
@@ -205,6 +214,15 @@
     "Neuschneemenge": "k.A.",
     "Schneezustand": "k.A.",
     "Letzter Schneefall": "k.A."
+  },
+  "saas-fee": {
+    "url": "https://www.schneehoehen.de/skigebiete/schneebericht/saas-fee",
+    "date": "2024-10-27",
+    "Schneeh\u00f6he (Bergstation)": "195 cm",
+    "Schneeh\u00f6he (Talstation)": "0 cm",
+    "Neuschneemenge": "35 cm",
+    "Schneezustand": "griffig",
+    "Letzter Schneefall": "27.10.2024"
   },
   "scuol-motta-naluns": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/scuol-motta-naluns",
@@ -248,7 +266,7 @@
     "Schneeh\u00f6he (Bergstation)": "45 cm",
     "Schneeh\u00f6he (Talstation)": "0 cm",
     "Neuschneemenge": "0 cm",
-    "Schneezustand": "Technischer Schnee",
+    "Schneezustand": "Kompaktschnee",
     "Letzter Schneefall": "10.10.2024"
   },
   "sulden-am-ortler-ortler-skiarena": {
@@ -283,9 +301,9 @@
     "date": "2024-10-27",
     "Schneeh\u00f6he (Bergstation)": "80 cm",
     "Schneeh\u00f6he (Talstation)": "0 cm",
-    "Neuschneemenge": "0 cm",
+    "Neuschneemenge": "10 cm",
     "Schneezustand": "k.A.",
-    "Letzter Schneefall": "23.10.2024"
+    "Letzter Schneefall": "27.10.2024"
   },
   "zillertal-arena": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/zillertal-arena",
@@ -295,14 +313,5 @@
     "Neuschneemenge": "k.A.",
     "Schneezustand": "k.A.",
     "Letzter Schneefall": "k.A."
-  },
-  "4-vallees": {
-    "url": "https://www.schneehoehen.de/skigebiete/schneebericht/4-vallees",
-    "date": "2024-10-27",
-    "Schneeh\u00f6he (Bergstation)": "0 cm",
-    "Schneeh\u00f6he (Talstation)": "0 cm",
-    "Neuschneemenge": "0 cm",
-    "Schneezustand": "k.A.",
-    "Letzter Schneefall": "21.04.2024"
   }
 }
