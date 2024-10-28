@@ -60,7 +60,7 @@
     "Schneeh\u00f6he (Talstation)": "0 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "Kompaktschnee",
-    "Letzter Schneefall": "22.10.2024"
+    "Letzter Schneefall": "26.10.2024"
   },
   "engelberg-titlis": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/engelberg-titlis",
@@ -112,7 +112,7 @@
     "date": "2024-10-28",
     "Schneeh\u00f6he (Bergstation)": "k.A.",
     "Schneeh\u00f6he (Talstation)": "k.A.",
-    "Neuschneemenge": "k.A.",
+    "Neuschneemenge": "0 cm",
     "Schneezustand": "k.A.",
     "Letzter Schneefall": "k.A."
   },
@@ -194,7 +194,7 @@
     "Schneeh\u00f6he (Bergstation)": "106 cm",
     "Schneeh\u00f6he (Talstation)": "0 cm",
     "Neuschneemenge": "0 cm",
-    "Schneezustand": "k.A.",
+    "Schneezustand": "griffig",
     "Letzter Schneefall": "12.10.2024"
   },
   "pitztaler-gletscher": {
@@ -220,7 +220,7 @@
     "date": "2024-10-28",
     "Schneeh\u00f6he (Bergstation)": "195 cm",
     "Schneeh\u00f6he (Talstation)": "0 cm",
-    "Neuschneemenge": "35 cm",
+    "Neuschneemenge": "k.A.",
     "Schneezustand": "griffig",
     "Letzter Schneefall": "27.10.2024"
   },
@@ -301,7 +301,7 @@
     "date": "2024-10-28",
     "Schneeh\u00f6he (Bergstation)": "80 cm",
     "Schneeh\u00f6he (Talstation)": "0 cm",
-    "Neuschneemenge": "10 cm",
+    "Neuschneemenge": "k.A.",
     "Schneezustand": "k.A.",
     "Letzter Schneefall": "27.10.2024"
   },
@@ -313,5 +313,14 @@
     "Neuschneemenge": "k.A.",
     "Schneezustand": "k.A.",
     "Letzter Schneefall": "k.A."
+  },
+  "arosa-lenzerheide": {
+    "url": "https://www.schneehoehen.de/skigebiete/schneebericht/arosa-lenzerheide",
+    "date": "2024-10-28",
+    "Schneeh\u00f6he (Bergstation)": "0 cm",
+    "Schneeh\u00f6he (Talstation)": "0 cm",
+    "Neuschneemenge": "0 cm",
+    "Schneezustand": "k.A.",
+    "Letzter Schneefall": "10.10.2024"
   }
 }
