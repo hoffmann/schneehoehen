@@ -1,7 +1,7 @@
 {
   "4-vallees": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/4-vallees",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "60 cm",
     "Schneeh\u00f6he (Talstation)": "30 cm",
     "Neuschneemenge": "0 cm",
@@ -10,16 +10,16 @@
   },
   "adelboden-lenk": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/adelboden-lenk",
-    "date": "2024-12-18",
-    "Schneeh\u00f6he (Bergstation)": "45 cm",
-    "Schneeh\u00f6he (Talstation)": "19 cm",
-    "Neuschneemenge": "k.A.",
+    "date": "2024-12-19",
+    "Schneeh\u00f6he (Bergstation)": "43 cm",
+    "Schneeh\u00f6he (Talstation)": "9 cm",
+    "Neuschneemenge": "0 cm",
     "Schneezustand": "hart",
     "Letzter Schneefall": "17.12.2024"
   },
   "arlberg": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/arlberg",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "80 cm",
     "Schneeh\u00f6he (Talstation)": "30 cm",
     "Neuschneemenge": "0 cm",
@@ -28,7 +28,7 @@
   },
   "arolla": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/arolla",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "k.A.",
     "Schneeh\u00f6he (Talstation)": "k.A.",
     "Neuschneemenge": "0 cm",
@@ -37,8 +37,8 @@
   },
   "chamonix-mont-blanc": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/chamonix-mont-blanc",
-    "date": "2024-12-18",
-    "Schneeh\u00f6he (Bergstation)": "130 cm",
+    "date": "2024-12-19",
+    "Schneeh\u00f6he (Bergstation)": "115 cm",
     "Schneeh\u00f6he (Talstation)": "10 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "Pulverschnee",
@@ -46,16 +46,16 @@
   },
   "courchevel": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/courchevel",
-    "date": "2024-12-18",
-    "Schneeh\u00f6he (Bergstation)": "96 cm",
-    "Schneeh\u00f6he (Talstation)": "49 cm",
+    "date": "2024-12-19",
+    "Schneeh\u00f6he (Bergstation)": "93 cm",
+    "Schneeh\u00f6he (Talstation)": "47 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "Neuschnee",
     "Letzter Schneefall": "14.12.2024"
   },
   "engadin-st-moritz": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/engadin-st-moritz",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "25 cm",
     "Schneeh\u00f6he (Talstation)": "22 cm",
     "Neuschneemenge": "0 cm",
@@ -64,7 +64,7 @@
   },
   "engelberg-titlis": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/engelberg-titlis",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "75 cm",
     "Schneeh\u00f6he (Talstation)": "14 cm",
     "Neuschneemenge": "0 cm",
@@ -73,7 +73,7 @@
   },
   "evasion-mont-blanc": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/evasion-mont-blanc",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "80 cm",
     "Schneeh\u00f6he (Talstation)": "0 cm",
     "Neuschneemenge": "0 cm",
@@ -82,7 +82,7 @@
   },
   "groeden": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/groeden",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "50 cm",
     "Schneeh\u00f6he (Talstation)": "50 cm",
     "Neuschneemenge": "0 cm",
@@ -91,16 +91,16 @@
   },
   "gurgl": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/gurgl",
-    "date": "2024-12-18",
-    "Schneeh\u00f6he (Bergstation)": "75 cm",
-    "Schneeh\u00f6he (Talstation)": "35 cm",
+    "date": "2024-12-19",
+    "Schneeh\u00f6he (Bergstation)": "74 cm",
+    "Schneeh\u00f6he (Talstation)": "34 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "Neuschnee",
     "Letzter Schneefall": "15.12.2024"
   },
   "ischgl": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/ischgl",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "50 cm",
     "Schneeh\u00f6he (Talstation)": "20 cm",
     "Neuschneemenge": "0 cm",
@@ -109,25 +109,25 @@
   },
   "kitzbuehel": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/kitzbuehel",
-    "date": "2024-12-18",
-    "Schneeh\u00f6he (Bergstation)": "52 cm",
-    "Schneeh\u00f6he (Talstation)": "50 cm",
+    "date": "2024-12-19",
+    "Schneeh\u00f6he (Bergstation)": "53 cm",
+    "Schneeh\u00f6he (Talstation)": "52 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "griffig",
-    "Letzter Schneefall": "15.12.2024"
+    "Letzter Schneefall": "16.12.2024"
   },
   "l-alpe-d-huez": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/l-alpe-d-huez",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "125 cm",
-    "Schneeh\u00f6he (Talstation)": "58 cm",
+    "Schneeh\u00f6he (Talstation)": "54 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "k.A.",
     "Letzter Schneefall": "14.12.2024"
   },
   "le-grand-massif": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/le-grand-massif",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "100 cm",
     "Schneeh\u00f6he (Talstation)": "34 cm",
     "Neuschneemenge": "0 cm",
@@ -136,16 +136,16 @@
   },
   "lech-zuers": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/lech-zuers",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "65 cm",
     "Schneeh\u00f6he (Talstation)": "55 cm",
     "Neuschneemenge": "0 cm",
-    "Schneezustand": "Neuschnee",
+    "Schneezustand": "griffig",
     "Letzter Schneefall": "15.12.2024"
   },
   "les-arcs": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/les-arcs",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "110 cm",
     "Schneeh\u00f6he (Talstation)": "20 cm",
     "Neuschneemenge": "0 cm",
@@ -154,26 +154,26 @@
   },
   "les-contamines-montjoie": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/les-contamines-montjoie",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "80 cm",
-    "Schneeh\u00f6he (Talstation)": "62 cm",
+    "Schneeh\u00f6he (Talstation)": "59 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "k.A.",
     "Letzter Schneefall": "14.12.2024"
   },
   "les-trois-vallees": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/les-trois-vallees",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "130 cm",
-    "Schneeh\u00f6he (Talstation)": "0 cm",
+    "Schneeh\u00f6he (Talstation)": "85 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "Neuschnee",
     "Letzter Schneefall": "15.12.2024"
   },
   "livigno": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/livigno",
-    "date": "2024-12-18",
-    "Schneeh\u00f6he (Bergstation)": "28 cm",
+    "date": "2024-12-19",
+    "Schneeh\u00f6he (Bergstation)": "24 cm",
     "Schneeh\u00f6he (Talstation)": "0 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "Technischer Schnee",
@@ -181,7 +181,7 @@
   },
   "nauders-bergkastel": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/nauders-bergkastel",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "50 cm",
     "Schneeh\u00f6he (Talstation)": "25 cm",
     "Neuschneemenge": "0 cm",
@@ -190,8 +190,8 @@
   },
   "oetztal-arena-soelden": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/oetztal-arena-soelden",
-    "date": "2024-12-18",
-    "Schneeh\u00f6he (Bergstation)": "161 cm",
+    "date": "2024-12-19",
+    "Schneeh\u00f6he (Bergstation)": "158 cm",
     "Schneeh\u00f6he (Talstation)": "15 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "griffig",
@@ -199,7 +199,7 @@
   },
   "pitztaler-gletscher": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/pitztaler-gletscher",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "80 cm",
     "Schneeh\u00f6he (Talstation)": "10 cm",
     "Neuschneemenge": "0 cm",
@@ -208,7 +208,7 @@
   },
   "praz-de-lys-sommand": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/praz-de-lys-sommand",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "20 cm",
     "Schneeh\u00f6he (Talstation)": "10 cm",
     "Neuschneemenge": "0 cm",
@@ -217,7 +217,7 @@
   },
   "saas-fee": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/saas-fee",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "165 cm",
     "Schneeh\u00f6he (Talstation)": "35 cm",
     "Neuschneemenge": "0 cm",
@@ -226,7 +226,7 @@
   },
   "scuol-motta-naluns": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/scuol-motta-naluns",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "40 cm",
     "Schneeh\u00f6he (Talstation)": "12 cm",
     "Neuschneemenge": "0 cm",
@@ -235,7 +235,7 @@
   },
   "silvretta-nova": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/silvretta-nova",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "69 cm",
     "Schneeh\u00f6he (Talstation)": "5 cm",
     "Neuschneemenge": "0 cm",
@@ -244,7 +244,7 @@
   },
   "skicircus-saalbach-hinterglemm-leogang": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/skicircus-saalbach-hinterglemm-leogang",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "50 cm",
     "Schneeh\u00f6he (Talstation)": "50 cm",
     "Neuschneemenge": "0 cm",
@@ -253,7 +253,7 @@
   },
   "soerenberg": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/soerenberg",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "70 cm",
     "Schneeh\u00f6he (Talstation)": "25 cm",
     "Neuschneemenge": "0 cm",
@@ -262,7 +262,7 @@
   },
   "stubaier-gletscher": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/stubaier-gletscher",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "80 cm",
     "Schneeh\u00f6he (Talstation)": "40 cm",
     "Neuschneemenge": "0 cm",
@@ -271,7 +271,7 @@
   },
   "sulden-am-ortler-ortler-skiarena": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/sulden-am-ortler-ortler-skiarena",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "85 cm",
     "Schneeh\u00f6he (Talstation)": "50 cm",
     "Neuschneemenge": "0 cm",
@@ -280,7 +280,7 @@
   },
   "tignes": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/tignes",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "90 cm",
     "Schneeh\u00f6he (Talstation)": "57 cm",
     "Neuschneemenge": "0 cm",
@@ -289,7 +289,7 @@
   },
   "val-thorens": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/val-thorens",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "130 cm",
     "Schneeh\u00f6he (Talstation)": "85 cm",
     "Neuschneemenge": "0 cm",
@@ -298,7 +298,7 @@
   },
   "zermatt": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/zermatt",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "25 cm",
     "Schneeh\u00f6he (Talstation)": "15 cm",
     "Neuschneemenge": "0 cm",
@@ -307,16 +307,16 @@
   },
   "zillertal-arena": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/zillertal-arena",
-    "date": "2024-12-18",
-    "Schneeh\u00f6he (Bergstation)": "110 cm",
-    "Schneeh\u00f6he (Talstation)": "60 cm",
+    "date": "2024-12-19",
+    "Schneeh\u00f6he (Bergstation)": "90 cm",
+    "Schneeh\u00f6he (Talstation)": "40 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "griffig",
     "Letzter Schneefall": "16.12.2024"
   },
   "arosa-lenzerheide": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/arosa-lenzerheide",
-    "date": "2024-12-18",
+    "date": "2024-12-19",
     "Schneeh\u00f6he (Bergstation)": "50 cm",
     "Schneeh\u00f6he (Talstation)": "40 cm",
     "Neuschneemenge": "0 cm",
