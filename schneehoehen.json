@@ -1,8 +1,8 @@
 {
   "4-vallees": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/4-vallees",
-    "date": "2025-03-31",
-    "Schneeh\u00f6he (Bergstation)": "115 cm",
+    "date": "2025-04-01",
+    "Schneeh\u00f6he (Bergstation)": "116 cm",
     "Schneeh\u00f6he (Talstation)": "30 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "Pulverschnee",
@@ -10,7 +10,7 @@
   },
   "adelboden-lenk": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/adelboden-lenk",
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "Schneeh\u00f6he (Bergstation)": "94 cm",
     "Schneeh\u00f6he (Talstation)": "0 cm",
     "Neuschneemenge": "0 cm",
@@ -19,16 +19,16 @@
   },
   "arlberg": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/arlberg",
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "Schneeh\u00f6he (Bergstation)": "140 cm",
     "Schneeh\u00f6he (Talstation)": "35 cm",
-    "Neuschneemenge": "k.A.",
+    "Neuschneemenge": "10 cm",
     "Schneezustand": "Neuschnee",
-    "Letzter Schneefall": "30.03.2025"
+    "Letzter Schneefall": "31.03.2025"
   },
   "arolla": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/arolla",
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "Schneeh\u00f6he (Bergstation)": "140 cm",
     "Schneeh\u00f6he (Talstation)": "58 cm",
     "Neuschneemenge": "0 cm",
@@ -37,25 +37,25 @@
   },
   "chamonix-mont-blanc": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/chamonix-mont-blanc",
-    "date": "2025-03-31",
-    "Schneeh\u00f6he (Bergstation)": "225 cm",
+    "date": "2025-04-01",
+    "Schneeh\u00f6he (Bergstation)": "210 cm",
     "Schneeh\u00f6he (Talstation)": "5 cm",
-    "Neuschneemenge": "30 cm",
+    "Neuschneemenge": "0 cm",
     "Schneezustand": "Fr\u00fchlingsschnee",
     "Letzter Schneefall": "29.03.2025"
   },
   "courchevel": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/courchevel",
-    "date": "2025-03-31",
-    "Schneeh\u00f6he (Bergstation)": "147 cm",
-    "Schneeh\u00f6he (Talstation)": "92 cm",
-    "Neuschneemenge": "k.A.",
+    "date": "2025-04-01",
+    "Schneeh\u00f6he (Bergstation)": "145 cm",
+    "Schneeh\u00f6he (Talstation)": "90 cm",
+    "Neuschneemenge": "0 cm",
     "Schneezustand": "k.A.",
     "Letzter Schneefall": "30.03.2025"
   },
   "engadin-st-moritz": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/engadin-st-moritz",
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "Schneeh\u00f6he (Bergstation)": "115 cm",
     "Schneeh\u00f6he (Talstation)": "31 cm",
     "Neuschneemenge": "0 cm",
@@ -64,7 +64,7 @@
   },
   "engelberg-titlis": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/engelberg-titlis",
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "Schneeh\u00f6he (Bergstation)": "149 cm",
     "Schneeh\u00f6he (Talstation)": "0 cm",
     "Neuschneemenge": "0 cm",
@@ -73,7 +73,7 @@
   },
   "evasion-mont-blanc": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/evasion-mont-blanc",
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "Schneeh\u00f6he (Bergstation)": "165 cm",
     "Schneeh\u00f6he (Talstation)": "0 cm",
     "Neuschneemenge": "0 cm",
@@ -82,7 +82,7 @@
   },
   "groeden": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/groeden",
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "Schneeh\u00f6he (Bergstation)": "110 cm",
     "Schneeh\u00f6he (Talstation)": "40 cm",
     "Neuschneemenge": "0 cm",
@@ -91,61 +91,61 @@
   },
   "gurgl": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/gurgl",
-    "date": "2025-03-31",
-    "Schneeh\u00f6he (Bergstation)": "90 cm",
-    "Schneeh\u00f6he (Talstation)": "45 cm",
-    "Neuschneemenge": "0 cm",
+    "date": "2025-04-01",
+    "Schneeh\u00f6he (Bergstation)": "78 cm",
+    "Schneeh\u00f6he (Talstation)": "49 cm",
+    "Neuschneemenge": "5 cm",
     "Schneezustand": "Neuschnee",
-    "Letzter Schneefall": "29.03.2025"
+    "Letzter Schneefall": "31.03.2025"
   },
   "ischgl": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/ischgl",
-    "date": "2025-03-31",
-    "Schneeh\u00f6he (Bergstation)": "70 cm",
+    "date": "2025-04-01",
+    "Schneeh\u00f6he (Bergstation)": "80 cm",
     "Schneeh\u00f6he (Talstation)": "30 cm",
-    "Neuschneemenge": "5 cm",
+    "Neuschneemenge": "20 cm",
     "Schneezustand": "Pulverschnee",
-    "Letzter Schneefall": "29.03.2025"
+    "Letzter Schneefall": "31.03.2025"
   },
   "kitzbuehel": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/kitzbuehel",
-    "date": "2025-03-31",
-    "Schneeh\u00f6he (Bergstation)": "83 cm",
+    "date": "2025-04-01",
+    "Schneeh\u00f6he (Bergstation)": "88 cm",
     "Schneeh\u00f6he (Talstation)": "52 cm",
-    "Neuschneemenge": "k.A.",
-    "Schneezustand": "Nassschnee",
-    "Letzter Schneefall": "30.03.2025"
+    "Neuschneemenge": "9 cm",
+    "Schneezustand": "Neuschnee",
+    "Letzter Schneefall": "31.03.2025"
   },
   "l-alpe-d-huez": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/l-alpe-d-huez",
-    "date": "2025-03-31",
-    "Schneeh\u00f6he (Bergstation)": "254 cm",
-    "Schneeh\u00f6he (Talstation)": "107 cm",
-    "Neuschneemenge": "1 cm",
-    "Schneezustand": "Fr\u00fchlingsschnee",
+    "date": "2025-04-01",
+    "Schneeh\u00f6he (Bergstation)": "150 cm",
+    "Schneeh\u00f6he (Talstation)": "103 cm",
+    "Neuschneemenge": "0 cm",
+    "Schneezustand": "hart",
     "Letzter Schneefall": "29.03.2025"
   },
   "le-grand-massif": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/le-grand-massif",
-    "date": "2025-03-31",
-    "Schneeh\u00f6he (Bergstation)": "280 cm",
+    "date": "2025-04-01",
+    "Schneeh\u00f6he (Bergstation)": "275 cm",
     "Schneeh\u00f6he (Talstation)": "0 cm",
-    "Neuschneemenge": "k.A.",
-    "Schneezustand": "Neuschnee",
+    "Neuschneemenge": "0 cm",
+    "Schneezustand": "Pulverschnee",
     "Letzter Schneefall": "30.03.2025"
   },
   "lech-zuers": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/lech-zuers",
-    "date": "2025-03-31",
-    "Schneeh\u00f6he (Bergstation)": "120 cm",
-    "Schneeh\u00f6he (Talstation)": "35 cm",
-    "Neuschneemenge": "k.A.",
+    "date": "2025-04-01",
+    "Schneeh\u00f6he (Bergstation)": "130 cm",
+    "Schneeh\u00f6he (Talstation)": "40 cm",
+    "Neuschneemenge": "10 cm",
     "Schneezustand": "Neuschnee",
-    "Letzter Schneefall": "30.03.2025"
+    "Letzter Schneefall": "31.03.2025"
   },
   "les-arcs": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/les-arcs",
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "Schneeh\u00f6he (Bergstation)": "250 cm",
     "Schneeh\u00f6he (Talstation)": "0 cm",
     "Neuschneemenge": "0 cm",
@@ -154,70 +154,70 @@
   },
   "les-contamines-montjoie": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/les-contamines-montjoie",
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "Schneeh\u00f6he (Bergstation)": "165 cm",
-    "Schneeh\u00f6he (Talstation)": "94 cm",
-    "Neuschneemenge": "1 cm",
+    "Schneeh\u00f6he (Talstation)": "90 cm",
+    "Neuschneemenge": "0 cm",
     "Schneezustand": "k.A.",
     "Letzter Schneefall": "16.03.2025"
   },
   "les-trois-vallees": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/les-trois-vallees",
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "Schneeh\u00f6he (Bergstation)": "297 cm",
-    "Schneeh\u00f6he (Talstation)": "12 cm",
-    "Neuschneemenge": "2 cm",
+    "Schneeh\u00f6he (Talstation)": "10 cm",
+    "Neuschneemenge": "0 cm",
     "Schneezustand": "griffig",
-    "Letzter Schneefall": "29.03.2025"
+    "Letzter Schneefall": "30.03.2025"
   },
   "livigno": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/livigno",
-    "date": "2025-03-31",
-    "Schneeh\u00f6he (Bergstation)": "55 cm",
-    "Schneeh\u00f6he (Talstation)": "33 cm",
-    "Neuschneemenge": "0 cm",
+    "date": "2025-04-01",
+    "Schneeh\u00f6he (Bergstation)": "89 cm",
+    "Schneeh\u00f6he (Talstation)": "70 cm",
+    "Neuschneemenge": "2 cm",
     "Schneezustand": "griffig",
-    "Letzter Schneefall": "28.03.2025"
+    "Letzter Schneefall": "31.03.2025"
   },
   "nauders-bergkastel": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/nauders-bergkastel",
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "Schneeh\u00f6he (Bergstation)": "70 cm",
-    "Schneeh\u00f6he (Talstation)": "10 cm",
-    "Neuschneemenge": "0 cm",
-    "Schneezustand": "griffig",
-    "Letzter Schneefall": "17.03.2025"
-  },
-  "oetztal-arena-soelden": {
-    "url": "https://www.schneehoehen.de/skigebiete/schneebericht/oetztal-arena-soelden",
-    "date": "2025-03-31",
-    "Schneeh\u00f6he (Bergstation)": "236 cm",
     "Schneeh\u00f6he (Talstation)": "10 cm",
     "Neuschneemenge": "10 cm",
     "Schneezustand": "griffig",
-    "Letzter Schneefall": "30.03.2025"
+    "Letzter Schneefall": "31.03.2025"
+  },
+  "oetztal-arena-soelden": {
+    "url": "https://www.schneehoehen.de/skigebiete/schneebericht/oetztal-arena-soelden",
+    "date": "2025-04-01",
+    "Schneeh\u00f6he (Bergstation)": "250 cm",
+    "Schneeh\u00f6he (Talstation)": "10 cm",
+    "Neuschneemenge": "15 cm",
+    "Schneezustand": "griffig",
+    "Letzter Schneefall": "31.03.2025"
   },
   "pitztaler-gletscher": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/pitztaler-gletscher",
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "Schneeh\u00f6he (Bergstation)": "135 cm",
     "Schneeh\u00f6he (Talstation)": "35 cm",
-    "Neuschneemenge": "k.A.",
+    "Neuschneemenge": "10 cm",
     "Schneezustand": "Pulverschnee",
-    "Letzter Schneefall": "30.03.2025"
+    "Letzter Schneefall": "31.03.2025"
   },
   "praz-de-lys-sommand": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/praz-de-lys-sommand",
-    "date": "2025-03-31",
-    "Schneeh\u00f6he (Bergstation)": "55 cm",
-    "Schneeh\u00f6he (Talstation)": "40 cm",
+    "date": "2025-04-01",
+    "Schneeh\u00f6he (Bergstation)": "50 cm",
+    "Schneeh\u00f6he (Talstation)": "35 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "Kompaktschnee",
     "Letzter Schneefall": "16.03.2025"
   },
   "saas-fee": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/saas-fee",
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "Schneeh\u00f6he (Bergstation)": "276 cm",
     "Schneeh\u00f6he (Talstation)": "44 cm",
     "Neuschneemenge": "0 cm",
@@ -226,34 +226,34 @@
   },
   "scuol-motta-naluns": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/scuol-motta-naluns",
-    "date": "2025-03-31",
-    "Schneeh\u00f6he (Bergstation)": "48 cm",
+    "date": "2025-04-01",
+    "Schneeh\u00f6he (Bergstation)": "56 cm",
     "Schneeh\u00f6he (Talstation)": "10 cm",
-    "Neuschneemenge": "0 cm",
+    "Neuschneemenge": "17 cm",
     "Schneezustand": "Pulverschnee",
-    "Letzter Schneefall": "17.03.2025"
+    "Letzter Schneefall": "31.03.2025"
   },
   "silvretta-nova": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/silvretta-nova",
-    "date": "2025-03-31",
-    "Schneeh\u00f6he (Bergstation)": "120 cm",
-    "Schneeh\u00f6he (Talstation)": "5 cm",
-    "Neuschneemenge": "k.A.",
+    "date": "2025-04-01",
+    "Schneeh\u00f6he (Bergstation)": "130 cm",
+    "Schneeh\u00f6he (Talstation)": "0 cm",
+    "Neuschneemenge": "15 cm",
     "Schneezustand": "Neuschnee",
-    "Letzter Schneefall": "30.03.2025"
+    "Letzter Schneefall": "31.03.2025"
   },
   "skicircus-saalbach-hinterglemm-leogang": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/skicircus-saalbach-hinterglemm-leogang",
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "Schneeh\u00f6he (Bergstation)": "70 cm",
     "Schneeh\u00f6he (Talstation)": "50 cm",
-    "Neuschneemenge": "k.A.",
+    "Neuschneemenge": "10 cm",
     "Schneezustand": "Neuschnee",
-    "Letzter Schneefall": "30.03.2025"
+    "Letzter Schneefall": "31.03.2025"
   },
   "soerenberg": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/soerenberg",
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "Schneeh\u00f6he (Bergstation)": "160 cm",
     "Schneeh\u00f6he (Talstation)": "30 cm",
     "Neuschneemenge": "0 cm",
@@ -262,65 +262,65 @@
   },
   "stubaier-gletscher": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/stubaier-gletscher",
-    "date": "2025-03-31",
-    "Schneeh\u00f6he (Bergstation)": "215 cm",
-    "Schneeh\u00f6he (Talstation)": "30 cm",
-    "Neuschneemenge": "0 cm",
+    "date": "2025-04-01",
+    "Schneeh\u00f6he (Bergstation)": "230 cm",
+    "Schneeh\u00f6he (Talstation)": "40 cm",
+    "Neuschneemenge": "30 cm",
     "Schneezustand": "Neuschnee",
-    "Letzter Schneefall": "29.03.2025"
+    "Letzter Schneefall": "31.03.2025"
   },
   "sulden-am-ortler-ortler-skiarena": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/sulden-am-ortler-ortler-skiarena",
-    "date": "2025-03-31",
-    "Schneeh\u00f6he (Bergstation)": "175 cm",
+    "date": "2025-04-01",
+    "Schneeh\u00f6he (Bergstation)": "180 cm",
     "Schneeh\u00f6he (Talstation)": "140 cm",
-    "Neuschneemenge": "0 cm",
-    "Schneezustand": "Altschnee",
-    "Letzter Schneefall": "22.03.2025"
+    "Neuschneemenge": "1 cm",
+    "Schneezustand": "Neuschnee",
+    "Letzter Schneefall": "31.03.2025"
   },
   "tignes": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/tignes",
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "Schneeh\u00f6he (Bergstation)": "200 cm",
     "Schneeh\u00f6he (Talstation)": "107 cm",
-    "Neuschneemenge": "9 cm",
+    "Neuschneemenge": "0 cm",
     "Schneezustand": "Neuschnee",
     "Letzter Schneefall": "29.03.2025"
   },
   "val-thorens": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/val-thorens",
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "Schneeh\u00f6he (Bergstation)": "225 cm",
     "Schneeh\u00f6he (Talstation)": "175 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "k.A.",
-    "Letzter Schneefall": "29.03.2025"
+    "Letzter Schneefall": "30.03.2025"
   },
   "zermatt": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/zermatt",
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "Schneeh\u00f6he (Bergstation)": "80 cm",
     "Schneeh\u00f6he (Talstation)": "20 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "Pulverschnee",
-    "Letzter Schneefall": "24.03.2025"
+    "Letzter Schneefall": "30.03.2025"
   },
   "zillertal-arena": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/zillertal-arena",
-    "date": "2025-03-31",
-    "Schneeh\u00f6he (Bergstation)": "60 cm",
+    "date": "2025-04-01",
+    "Schneeh\u00f6he (Bergstation)": "135 cm",
     "Schneeh\u00f6he (Talstation)": "50 cm",
-    "Neuschneemenge": "k.A.",
+    "Neuschneemenge": "40 cm",
     "Schneezustand": "griffig",
-    "Letzter Schneefall": "30.03.2025"
+    "Letzter Schneefall": "31.03.2025"
   },
   "arosa-lenzerheide": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/arosa-lenzerheide",
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "Schneeh\u00f6he (Bergstation)": "70 cm",
     "Schneeh\u00f6he (Talstation)": "50 cm",
-    "Neuschneemenge": "0 cm",
+    "Neuschneemenge": "10 cm",
     "Schneezustand": "hart",
-    "Letzter Schneefall": "17.03.2025"
+    "Letzter Schneefall": "31.03.2025"
   }
 }
