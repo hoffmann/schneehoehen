@@ -1,34 +1,34 @@
 {
   "4-vallees": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/4-vallees",
-    "date": "2026-04-05",
-    "Schneeh\u00f6he (Bergstation)": "194 cm",
-    "Schneeh\u00f6he (Talstation)": "35 cm",
+    "date": "2026-04-06",
+    "Schneeh\u00f6he (Bergstation)": "178 cm",
+    "Schneeh\u00f6he (Talstation)": "25 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "hart",
     "Letzter Schneefall": "01.04.2026"
   },
   "adelboden-lenk": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/adelboden-lenk",
-    "date": "2026-04-05",
-    "Schneeh\u00f6he (Bergstation)": "154 cm",
-    "Schneeh\u00f6he (Talstation)": "10 cm",
+    "date": "2026-04-06",
+    "Schneeh\u00f6he (Bergstation)": "142 cm",
+    "Schneeh\u00f6he (Talstation)": "6 cm",
     "Neuschneemenge": "2 cm",
-    "Schneezustand": "hart",
+    "Schneezustand": "k.A.",
     "Letzter Schneefall": "04.04.2026"
   },
   "arlberg": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/arlberg",
-    "date": "2026-04-05",
-    "Schneeh\u00f6he (Bergstation)": "235 cm",
-    "Schneeh\u00f6he (Talstation)": "115 cm",
+    "date": "2026-04-06",
+    "Schneeh\u00f6he (Bergstation)": "220 cm",
+    "Schneeh\u00f6he (Talstation)": "105 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "Pulverschnee",
     "Letzter Schneefall": "01.04.2026"
   },
   "arolla": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/arolla",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "171 cm",
     "Schneeh\u00f6he (Talstation)": "68 cm",
     "Neuschneemenge": "0 cm",
@@ -37,16 +37,16 @@
   },
   "chamonix-mont-blanc": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/chamonix-mont-blanc",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "360 cm",
-    "Schneeh\u00f6he (Talstation)": "50 cm",
+    "Schneeh\u00f6he (Talstation)": "0 cm",
     "Neuschneemenge": "0 cm",
-    "Schneezustand": "Neuschnee",
+    "Schneezustand": "Fr\u00fchlingsschnee",
     "Letzter Schneefall": "31.03.2026"
   },
   "courchevel": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/courchevel",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "253 cm",
     "Schneeh\u00f6he (Talstation)": "150 cm",
     "Neuschneemenge": "0 cm",
@@ -55,7 +55,7 @@
   },
   "engadin-st-moritz": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/engadin-st-moritz",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "182 cm",
     "Schneeh\u00f6he (Talstation)": "36 cm",
     "Neuschneemenge": "0 cm",
@@ -64,7 +64,7 @@
   },
   "engelberg-titlis": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/engelberg-titlis",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "315 cm",
     "Schneeh\u00f6he (Talstation)": "37 cm",
     "Neuschneemenge": "0 cm",
@@ -73,7 +73,7 @@
   },
   "evasion-mont-blanc": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/evasion-mont-blanc",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "230 cm",
     "Schneeh\u00f6he (Talstation)": "60 cm",
     "Neuschneemenge": "0 cm",
@@ -82,7 +82,7 @@
   },
   "groeden": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/groeden",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "90 cm",
     "Schneeh\u00f6he (Talstation)": "60 cm",
     "Neuschneemenge": "0 cm",
@@ -91,16 +91,16 @@
   },
   "gurgl": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/gurgl",
-    "date": "2026-04-05",
-    "Schneeh\u00f6he (Bergstation)": "117 cm",
-    "Schneeh\u00f6he (Talstation)": "88 cm",
-    "Neuschneemenge": "3 cm",
+    "date": "2026-04-06",
+    "Schneeh\u00f6he (Bergstation)": "111 cm",
+    "Schneeh\u00f6he (Talstation)": "78 cm",
+    "Neuschneemenge": "0 cm",
     "Schneezustand": "Neuschnee",
     "Letzter Schneefall": "03.04.2026"
   },
   "ischgl": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/ischgl",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "130 cm",
     "Schneeh\u00f6he (Talstation)": "20 cm",
     "Neuschneemenge": "0 cm",
@@ -109,26 +109,26 @@
   },
   "kitzbuehel": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/kitzbuehel",
-    "date": "2026-04-05",
-    "Schneeh\u00f6he (Bergstation)": "118 cm",
-    "Schneeh\u00f6he (Talstation)": "55 cm",
+    "date": "2026-04-06",
+    "Schneeh\u00f6he (Bergstation)": "103 cm",
+    "Schneeh\u00f6he (Talstation)": "52 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "griffig",
     "Letzter Schneefall": "02.04.2026"
   },
   "l-alpe-d-huez": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/l-alpe-d-huez",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "400 cm",
-    "Schneeh\u00f6he (Talstation)": "180 cm",
+    "Schneeh\u00f6he (Talstation)": "177 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "griffig",
     "Letzter Schneefall": "31.03.2026"
   },
   "le-grand-massif": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/le-grand-massif",
-    "date": "2026-04-05",
-    "Schneeh\u00f6he (Bergstation)": "340 cm",
+    "date": "2026-04-06",
+    "Schneeh\u00f6he (Bergstation)": "330 cm",
     "Schneeh\u00f6he (Talstation)": "0 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "Pulverschnee",
@@ -136,16 +136,16 @@
   },
   "lech-zuers": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/lech-zuers",
-    "date": "2026-04-05",
-    "Schneeh\u00f6he (Bergstation)": "235 cm",
-    "Schneeh\u00f6he (Talstation)": "115 cm",
+    "date": "2026-04-06",
+    "Schneeh\u00f6he (Bergstation)": "220 cm",
+    "Schneeh\u00f6he (Talstation)": "105 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "Pulverschnee",
     "Letzter Schneefall": "01.04.2026"
   },
   "les-arcs": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/les-arcs",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "330 cm",
     "Schneeh\u00f6he (Talstation)": "0 cm",
     "Neuschneemenge": "0 cm",
@@ -154,7 +154,7 @@
   },
   "les-contamines-montjoie": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/les-contamines-montjoie",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "93 cm",
     "Schneeh\u00f6he (Talstation)": "0 cm",
     "Neuschneemenge": "0 cm",
@@ -163,8 +163,8 @@
   },
   "les-trois-vallees": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/les-trois-vallees",
-    "date": "2026-04-05",
-    "Schneeh\u00f6he (Bergstation)": "295 cm",
+    "date": "2026-04-06",
+    "Schneeh\u00f6he (Bergstation)": "280 cm",
     "Schneeh\u00f6he (Talstation)": "50 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "griffig",
@@ -172,7 +172,7 @@
   },
   "livigno": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/livigno",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "100 cm",
     "Schneeh\u00f6he (Talstation)": "30 cm",
     "Neuschneemenge": "0 cm",
@@ -181,7 +181,7 @@
   },
   "nauders-bergkastel": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/nauders-bergkastel",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "70 cm",
     "Schneeh\u00f6he (Talstation)": "10 cm",
     "Neuschneemenge": "0 cm",
@@ -190,8 +190,8 @@
   },
   "oetztal-arena-soelden": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/oetztal-arena-soelden",
-    "date": "2026-04-05",
-    "Schneeh\u00f6he (Bergstation)": "143 cm",
+    "date": "2026-04-06",
+    "Schneeh\u00f6he (Bergstation)": "141 cm",
     "Schneeh\u00f6he (Talstation)": "10 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "Pulverschnee",
@@ -199,7 +199,7 @@
   },
   "pitztaler-gletscher": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/pitztaler-gletscher",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "260 cm",
     "Schneeh\u00f6he (Talstation)": "80 cm",
     "Neuschneemenge": "0 cm",
@@ -208,16 +208,16 @@
   },
   "praz-de-lys-sommand": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/praz-de-lys-sommand",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "290 cm",
     "Schneeh\u00f6he (Talstation)": "185 cm",
     "Neuschneemenge": "0 cm",
-    "Schneezustand": "Pulverschnee",
+    "Schneezustand": "Fr\u00fchlingsschnee",
     "Letzter Schneefall": "31.03.2026"
   },
   "saas-fee": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/saas-fee",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "287 cm",
     "Schneeh\u00f6he (Talstation)": "60 cm",
     "Neuschneemenge": "0 cm",
@@ -226,8 +226,8 @@
   },
   "scuol-motta-naluns": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/scuol-motta-naluns",
-    "date": "2026-04-05",
-    "Schneeh\u00f6he (Bergstation)": "69 cm",
+    "date": "2026-04-06",
+    "Schneeh\u00f6he (Bergstation)": "60 cm",
     "Schneeh\u00f6he (Talstation)": "0 cm",
     "Neuschneemenge": "0 cm",
     "Schneezustand": "hart",
@@ -235,25 +235,25 @@
   },
   "silvretta-nova": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/silvretta-nova",
-    "date": "2026-04-05",
-    "Schneeh\u00f6he (Bergstation)": "200 cm",
-    "Schneeh\u00f6he (Talstation)": "15 cm",
+    "date": "2026-04-06",
+    "Schneeh\u00f6he (Bergstation)": "185 cm",
+    "Schneeh\u00f6he (Talstation)": "5 cm",
     "Neuschneemenge": "0 cm",
-    "Schneezustand": "griffig",
+    "Schneezustand": "Neuschnee",
     "Letzter Schneefall": "31.03.2026"
   },
   "skicircus-saalbach-hinterglemm-leogang": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/skicircus-saalbach-hinterglemm-leogang",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "120 cm",
     "Schneeh\u00f6he (Talstation)": "80 cm",
     "Neuschneemenge": "0 cm",
-    "Schneezustand": "griffig",
+    "Schneezustand": "Neuschnee",
     "Letzter Schneefall": "02.04.2026"
   },
   "soerenberg": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/soerenberg",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "k.A.",
     "Schneeh\u00f6he (Talstation)": "k.A.",
     "Neuschneemenge": "0 cm",
@@ -262,7 +262,7 @@
   },
   "stubaier-gletscher": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/stubaier-gletscher",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "295 cm",
     "Schneeh\u00f6he (Talstation)": "50 cm",
     "Neuschneemenge": "0 cm",
@@ -271,7 +271,7 @@
   },
   "sulden-am-ortler-ortler-skiarena": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/sulden-am-ortler-ortler-skiarena",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "100 cm",
     "Schneeh\u00f6he (Talstation)": "80 cm",
     "Neuschneemenge": "0 cm",
@@ -280,7 +280,7 @@
   },
   "tignes": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/tignes",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "160 cm",
     "Schneeh\u00f6he (Talstation)": "134 cm",
     "Neuschneemenge": "0 cm",
@@ -289,16 +289,16 @@
   },
   "val-thorens": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/val-thorens",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "295 cm",
     "Schneeh\u00f6he (Talstation)": "230 cm",
-    "Neuschneemenge": "99 cm",
+    "Neuschneemenge": "0 cm",
     "Schneezustand": "k.A.",
     "Letzter Schneefall": "03.04.2026"
   },
   "zermatt": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/zermatt",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "130 cm",
     "Schneeh\u00f6he (Talstation)": "36 cm",
     "Neuschneemenge": "0 cm",
@@ -307,7 +307,7 @@
   },
   "zillertal-arena": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/zillertal-arena",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "175 cm",
     "Schneeh\u00f6he (Talstation)": "50 cm",
     "Neuschneemenge": "0 cm",
@@ -316,7 +316,7 @@
   },
   "arosa-lenzerheide": {
     "url": "https://www.schneehoehen.de/skigebiete/schneebericht/arosa-lenzerheide",
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "Schneeh\u00f6he (Bergstation)": "90 cm",
     "Schneeh\u00f6he (Talstation)": "60 cm",
     "Neuschneemenge": "0 cm",
